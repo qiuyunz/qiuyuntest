@@ -1,32 +1,16 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+</head> 
 
-<html>
- 
- <head>
-   
-   <title>test website</title>
-   <style>
-     
-     body{
-       text-align:center
-     }
-     
-   </style>
+<body> 
 
-   
-  
-   
- </head>
- 
- <body>
-   <h1>this is for test</h1>
+<h1>this is for test</h1>
    <div>
      <p>advertising stuff are running here</p>
    </div>
 
 
-   
-   
-   
- </body>
 
-</html>
+</body> 
+</html> 
